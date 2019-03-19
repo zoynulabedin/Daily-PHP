@@ -1,0 +1,60 @@
+.form {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    border: 1px solid#ddd;
+    box-shadow: 1px 1px 1px 1px #ddd;
+}
+
+.form-header {
+    background: #DC4B3E;
+    color: #fff;
+    padding: 10px;
+}
+
+.form-header h3 {
+    text-transform: uppercase;
+}
+.form input {
+    width: 91%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.form input[type="submit"] {
+    background: #DC4B3E;
+    border: none;
+    color: #fff;
+    width: 29%;
+    padding: 10px 30px;
+    margin: 10px 3px;
+    cursor: pointer;
+}
+.form label {
+    /* width: 100%; */
+    /* text-align: left; */
+    display: block;
+    /* width: 100%; */
+    text-align: left;
+    margin-left: 19px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.form label {
+    /* width: 100%; */
+    /* text-align: left; */
+    display: block;
+    /* width: 100%; */
+    text-align: left;
+    margin-left: 19px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+
+.form input[type="file"] {
+    width: 89%;
+    border: none;
+}
